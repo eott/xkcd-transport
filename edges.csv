@@ -1,0 +1,308 @@
+Source,Type,Target
+PigCo Building,AW,Spawn Commodities
+PigCo Building,R,Skyrail Interchange 1
+PigCo Building,AW,Rippy
+PigCo Building,AW,New Pigsgyville
+Skyrail Interchange 1,R,PigCo Building
+Skyrail Interchange 1,R,Skyrail Interchange 2
+Skyrail Interchange 1,R,Skyrail Interchange 3
+Skyrail Interchange 2,R,Skyrail Interchange 1
+Skyrail Interchange 2,R,Lower Skyrail Junction
+Skyrail Interchange 2,R,Spawn Airport
+Cookie Kingdom,R,Upper Skyrail Junction
+Cookie Kingdom,AW,Nothern Skyway
+Cookie Kingdom,AWB,Carlo's Island
+Cookie Kingdom,R,CK Science Labs
+Cookie Kingdom,AWB,CK UN Castle
+Black Forest,AP,Spawn Airport
+Black Forest,AW,West Frozen Beach
+Lower Skyrail Junction,R,Skyrail Interchange 2
+Lower Skyrail Junction,R,Castle Impenetrable
+Lower Skyrail Junction,R,Walkerm's House
+Castle Impenetrable,R,Lower Skyrail Junction
+Castle Impenetrable,R,Upper Skyrail Junction
+Upper Skyrail Junction,R,Western Coves Junction
+Upper Skyrail Junction,R,Northern Skyway
+Upper Skyrail Junction,R,Cookie Kingdom
+Upper Skyrail Junction,AW,Western Coves
+Northern Skyway,AW,Cookie Kingdom
+Northern Skyway,AW,Spawn Courtyard
+Northern Skyway,R,Upper Skyrail Junction
+Spawn Commodities,AW,Spawn Courtyard
+Spawn Commodities,AW,PigCo Building
+Spawn Commodities,AW,Grand Central
+Walkerm's House,AW,Spawn Courtyard
+Walkerm's House,AW,Spawn Airport
+Walkerm's House,R,Spawn Courtyard
+Walkerm's House,R,Lower Skyrail Junction
+Walkerm's House,AW,Test of Despair
+Walkerm's House,AW,New Pigsgyville
+Spawn Airport,AW,Walkerm's House
+Spawn Airport,AW,Spawn Airship
+Spawn Airport,R,Spawn Basement
+Spawn Airport,R,Skyrail Interchange 2
+Spawn Airport,AP,Black Forest
+Spawn Airport,AP,Winterfell
+Spawn Airport,AP,USS Nimitz
+Spawn Airport,AP,Clock Town
+Winterfell,AP,Spawn Airport
+Winterfell,R,Desert Village
+Winterfell,R,Mountain Fort
+USS Nimitz,AP,Spawn Airport
+USS Nimitz,AP,Plains City Airport
+USS Nimitz,AP,Rifton
+Western Hub,R,Spawn Basement
+Western Hub,R,Roosevelt Airport
+Western Hub,AW,Roosevelt Airport
+Western Hub,RB,MEGA Mob Farm
+Western Hub,AW,Uppsulla
+Spawn Basement,R,Western Hub
+Spawn Basement,R,Frontier Station
+Spawn Basement,R,Spawn Airport
+Spawn Basement,AW,Spawn Courtyard
+Spawn Courtyard,AW,Spawn Basement
+Spawn Courtyard,AW,Grand Central
+Spawn Courtyard,AW,Spawn Commodities
+Spawn Courtyard,AW,Spawn Airship
+Spawn Courtyard,AW,Walkerm's House
+Spawn Courtyard,AW,Northern Skyway
+Spawn Courtyard,R,Grand Central
+Spawn Courtyard,R,Walkerm's House
+Spawn Courtyard,RB,Garden Junction
+Spawn Courtyard,AW,TRP Library
+Spawn Courtyard,AW,Hedge Maze
+Spawn Airship,AW,Spawn Courtyard
+Spawn Airship,AW,Spawn Airport
+Spawn Airship,AS,Airship Nexus
+Clock Town,AP,Spawn Airport
+Clock Town,AS,Airship Nexus
+Frontier Station,R,Spawn Basement
+Frontier Station,R,Carlo's Outpost
+Plains City Airport,AS,Airship Nexus
+Plains City Airport,AW,Plains City Center
+Plains City Airport,R,South Skyscraper
+Plains City Airport,R,Plains City Center
+Airship Nexus,AS,Plains City Airport
+Airship Nexus,AS,Spawn Airship
+Airship Nexus,AS,Clock Town
+Airship Nexus,AS,Marsh Tower
+Airship Nexus,AS,Cazador0's Place
+Airship Nexus,AS,Prison Barge
+Airship Nexus,AS,Cloud Temple
+Marsh Tower,AS,Airship Nexus
+Grand Central,R,Spawn Courtyard
+Grand Central,AW,Spawn Courtyard
+Grand Central,R,USS Roosevelt
+Grand Central,R,Cactusfort
+Grand Central,R,TRP Library
+Grand Central,AW,Spawn Commodities
+Cloud Temple,AS,Airship Nexus
+Prison Barge,AS,Airship Nexus
+Cazador0's Place,AS,Airship Nexus
+Cazador0's Place,AW,Bender Statue
+West Frozen Beach,R,Hidden Valley
+West Frozen Beach,AW,Black Forest
+West Frozen Beach,RB,Frontier Rail Junction
+Hidden Valley,R,West Frozen Beach
+Hidden Valley,AWB,Frontier Rail Junction
+Frontier Rail Junction,AWB,Hidden Valley
+Frontier Rail Junction,RB,West Frozen Beach
+Rifton Airport,AP,USS Nimitz
+Rifton Airport,AP,Plains City Airport
+Rifton Airport,AP,Antarctica
+Rifton Airport,AP,Ankor A Zharr Airport
+Rifton Airport,AW,Rifton Central
+Antarctica,AP,Rifton Airport
+Ankor A Zharr Airport,AP,Rifton Airport
+Ankor A Zharr Airport,AW,Radio Grid Junction
+Ankor A Zharr Airport,R,Plains City Central Station
+Ankor A Zharr Airport,R,Golem Farm
+Ankor A Zharr Airport,R,Pool Housing
+Ankor A Zharr Airport,AW,AAZ Eastern Hall
+Skyrail Interchange 3,R,Skyrail Interchange 1
+Skyrail Interchange 3,R,Rippy
+Skyrail Interchange 3,R,Lava Fortress
+Rippy,R,Skyrail Interchange 3
+Rippy,AW,PigCo Building
+Rippy,AW,Creeper Statue
+Lava Fortress Railstation,R,Skyrail Interchange 3
+Lava Fortress Railstation,AW,Saint Ghast Church
+Saint Ghast Church,AW,Lava Fortress Railstation
+Western Coves Junction,R,Castle Impenetrable
+Western Coves Junction,R,Western Coves
+Western Coves,R,Upper Skyrail Junction
+Western Coves,AW,Upper Skyrail Junction
+Western Coves,AWB,Carlo's Island
+Carlo's Island,AWB,Western Coves
+Carlo's Island,AWB,Cookie Kingdom
+CK Science Lab,R,Cookie Kingdom
+CK Science Lab,R,Magna's Stronghold
+CK Science Lab,AWB,CK Tree Farm
+Magna's Stronghold,R,CK Science Lab
+CK Tree Farm,AWB,CK Science Lab
+CK UN Castle,AWB,Cookie Kingdom
+Garden Junction,RB,Spawn Courtyard
+Garden Junction,R,Mob Spawner
+Garden Junction,R,Botanical Garden
+Carlo's Outpost,R,Frontier Station
+Racing Track,RB,Roosevelt Airport
+Roosevelt Airport,RB,Racing Track
+Roosevelt Airport,R,Western Hub
+Roosevelt Airport,AW,Western Hub
+Sand Tower,AWB,Western Hub
+Uppsulla,AW,Western Hub
+Uppsulla,AW,Fort Upsulla
+Fort Uppsulla,R,Roosevelt Airport
+Fort Uppsulla,AW,Uppsulla
+Fort Uppsulla,R,Colliseum
+Colliseum,R,Fort Uppsulla
+Colliseum,R,USS Roosevelt
+Colliseum,R,Gift Shop
+USS Roosevelt,R,Colliseum
+USS Roosevelt,R,Grand Central
+Cactusfort,R,Grand Central
+Cactusfort,R,UFO Fort South
+Cactusfort,AW,Magma Skyway
+Cactusfort,AW,Castle Clavey
+UFO Fort South,R,Cactusfort
+TRP Library,R,Grand Central
+TRP Library,R,Undercomic
+TRP Library,AW,Undercomic
+TRP Library,AW,Spawn Courtyard
+TRP Library,AW,Zombie Apocalpyse Building
+TRP Library,AW,Grand Central
+TRP Library,AW,Hedge Maze
+Undercomic,R,TRP Library
+Undercomic,AW,TRP Library
+Undercomic,R,Castle Clavey
+Castle Clavey,R,Undercomic
+Castle Clavey,R,Uglytree NP
+Castle Clavey,AW,TRP Library
+Castle Clavey,AW,Zombie Apocalpyse Building
+Castle Clavey,AW,Redstone Harbour
+Castle Clavey,AW,Magma Skyway
+Castle Clavey,AW,Cactusfort
+Uglytree National Park,R,Castle Clavey
+Uglytree National Park,AWB,Magma Skyway South
+Uglytree National Park,AWB,Sky Temple
+Zombie Apocalpyse Building,AW,Spawn Courtyard
+Zombie Apocalpyse Building,AW,TRP Library
+Zombie Apocalpyse Building,AW,Castle Clavey
+Zombie Apocalpyse Building,AW,Grand Central
+Hedge Maze,AW,Spawn Courtyard
+Hedge Maze,AW,TRP Library
+Redstone Harbour,AW,Castle Clavey
+Magma Skyway South,AW,Castle Clavey
+Magma Skyway South,AW,Cactusfort
+Magma Skyway South,AWB,Uglytree
+Sky Temple,AWB,Uglytree
+New Pigsgyville,AW,Spawn Commodities
+New Pigsgyville,AW,Test of Despair
+New Pigsgyville,R,Southern Pigsgyville
+New Pigsgyville,AW,Spawn Courtyard
+New Pigsgyville,AW,Walkerm's House
+New Pigsgyville,AW,PigCo Building
+New Pigsgyville,AW,Creeper Statue
+Southern Pigsgyville,R,New Pigsgyville
+Test of Despair,AW,New Pigsgyville
+Test of Despair,AW,walkerm's house
+Creeper Statue,AW,Rippy
+Creeper Statue,AW,New Pigsgyville
+Creeper Statue,AW,Mob Spawner
+Mob Spawner,AW,Creeper Statue
+Mob Spawner,R,Garden Junction
+Botanical Garden,R,Garden Junction
+Botanical Garden,R,Gift Shop
+Gift Shop,R,Colliseum
+Gift Shop,R,Botanical Garden
+Lava Spiral,AW,Mosque
+Lava Spiral,AW,Spawn Airport
+Mosque,AW,Spawn Airport
+Mosque,AW,Lava Spiral
+Desert Village,R,Winterfell
+Desert Village,R,Disruption Terminus
+Disruption Terminus,R,Desert Village
+Mountain Fort,R,Winterfell
+Bender Statue,AW,Cazador0's Place
+Radio Grid Junction,AW,Ankor A Zharr Airport
+Radio Grid Junction,R,Plains City Central Station
+Radio Grid Junction,R,Rifton Central
+Plains City Central Station,R,Ankor A Zharr Airport
+Plains City Central Station,R,Mysterious Isle
+Plains City Central Station,R,The Bloop
+Plains City Central Station,R,Rifton Central
+Plains City Central Station,R,Roller Coaster
+Plains City Central Station,AW,Plains City Center
+Golem Farm,R,Ankor A Zharr Airport
+Golem Farm,R,Ankor A Zharr Harbour
+Ankor A Zharr Harbour,R,Golem Farm
+Ankor A Zharr Harbour,R,AAZ Statue
+AAZ Statue,R,AAZ Harbour
+AAZ Statue,R,AAZ Lava Pillars
+AAZ Lava Pillars,R,AAZ Statue
+AAZ Lava Pillars,R,Wam's House
+AAZ Wam's House,R,Aaz Lava Pillars
+AAZ Wam's House,R,AAZ Eastern Hall
+AAZ Eastern Hall,R,AAZ Wam's House
+AAZ Eastern Hall,R,AAZ Pool Housing
+AAZ Eastern Hall,AW,AAZ Airport
+AAZ Eastern Hall,AW,AAZ Western Hall
+AAZ Pool Housing,R,Aaz Eastern Hall
+AAZ Pool Housing,R,AAZ Airport
+AAZ Western Hall,AW,AAZ Eastern Hall
+Rifton Central,AW,Rifton Airport
+Rifton Central,R,Plains City Central Station
+Mysterious Isle,R,Plains City Central
+Mysterious Isle,RB,South Pandora XP-Farm
+Mysterious Isle,R,VULCAN Alpha
+South Pandora XP Farm,RB,Mysterious Isle
+South Pandora XP Farm,R,Halgdp
+South Pandora XP Farm,RB,Pandora UN Castle
+South Pandora XP Farm,AW,Pandora Southern Town
+Halgdp,R,South Pandora XP Farm
+Halgdp,AW,Xerillium's House
+Halgdp,R,Skyfrost Junction
+Xerillum's House,AW,Halgdp
+Skyfrost Junction,R,Halgdp
+Skyfrost Junction,R,Skyfrost
+Skyfrost Junction,R,South Skyscraper
+Skyfrost,R,Skyforst Junction
+Skyfrost,AW,Skyfrost Rirez Wing
+Skyfrost,AW,Skyblock Plots
+Skyfrost Rirez Wing,AW,Skyfrost
+Skyfrost Rirez Wing,R,Skyfrost Junction
+Skyblock Plots,AW,Skyfrost
+South Skyscaper,R,Skyfrost Junction
+South Skyscaper,R,Plains City Airport
+Pandora UN Castle,RB,South Pandora XP-Farm
+Pandora Southern Town,AW,South Pandora XP-Farm
+VULCAN Alpha,R,Mysterious Isle
+The Bloop,R,Plains City Central
+Roller Coaster,R,Plains City Central
+Roller Coaster,R,Wam's Harbour
+Roller Coaster,R,Ginormous Tower Lower Station
+Wam's Harbour,R,Roller Coaster
+Ginormous Tower Lower Station,R,Roller Coaster
+Ginormous Tower Lower Station,R,Ginormous Tower Upper Station
+Ginormous Tower Lower Station,AW,Ginormous Tower Upper Station
+Ginormous Tower Upper Station,RB,Ginormous Tower Lower Station
+Ginormous Tower Upper Station,AW,Ginormous Tower Lower Station
+Plains City Center,AW,Plains City Central
+Plains City Center,R,Skyfrost
+Plains City Center,AW,Plains City Airport
+Plains City Center,AW,Eastern Pandora
+Plains City Center,R,Plains City Airport
+Plains City Center,T,USS Nimitz
+Plains City Center,T,Rifton Airport
+Plains City Center,T,Britannia
+Plains City Center,T,Vvardenfell
+Eastern Pandora,AW,Plains City Center
+Eastern Pandora,AW,Watchtower
+Eastern Pandora,AW,Tree Express
+Eastern Pandora,R,Plains City Center
+Watchtower,AW,Eastern Pandora
+Watchtower,R,Eastern Pandora
+Tree Express,R,Watchtower
+Tree Express,AW,Eastern Pandora
+Britannia,T,Plains City Center
+Vvardenfell,T,Plains City Center
