@@ -1,7 +1,7 @@
 Source,Type,Target
 PigCo Building,AW,Spawn Commodities
 PigCo Building,R,Skyrail Interchange 1
-PigCo Building,AW,Rippy
+PigCo Building,AW,Rippy's UFO
 PigCo Building,AW,New Pigsgyville
 Skyrail Interchange 1,R,PigCo Building
 Skyrail Interchange 1,R,Skyrail Interchange 2
@@ -44,7 +44,7 @@ Spawn Airport,R,Skyrail Interchange 2
 Spawn Airport,AP,Black Forest
 Spawn Airport,AP,Winterfell
 Spawn Airport,AP,USS Nimitz
-Spawn Airport,AP,Clock Town
+Spawn Airport,AP,Clock Town Airport
 Winterfell,AP,Spawn Airport
 Winterfell,R,Desert Village
 Winterfell,R,Mountain Fort
@@ -73,32 +73,32 @@ Spawn Courtyard,AW,TRP Library
 Spawn Courtyard,AW,Hedge Maze
 Spawn Airship,AW,Spawn Courtyard
 Spawn Airship,AW,Spawn Airport
-Spawn Airship,AS,Airship Nexus
-Clock Town,AP,Spawn Airport
-Clock Town,AS,Airship Nexus
+Spawn Airship,AS,Zeppelin Nexus
+Clock Town Airport,AP,Spawn Airport
+Clock Town Airport,AS,Zeppelin Nexus
 Frontier Station,R,Spawn Basement
 Frontier Station,R,Carlo's Outpost
-Plains City Airport,AS,Airship Nexus
+Plains City Airport,AS,Zeppelin Nexus
 Plains City Airport,AW,Plains City Center
 Plains City Airport,R,South Skyscraper
 Plains City Airport,R,Plains City Center
-Airship Nexus,AS,Plains City Airport
-Airship Nexus,AS,Spawn Airship
-Airship Nexus,AS,Clock Town
-Airship Nexus,AS,Marsh Tower
-Airship Nexus,AS,Cazador0's Place
-Airship Nexus,AS,Prison Barge
-Airship Nexus,AS,Cloud Temple
-Marsh Tower,AS,Airship Nexus
+Zeppelin Nexus,AS,Plains City Airport
+Zeppelin Nexus,AS,Spawn Airship
+Zeppelin Nexus,AS,Clock Town Airport
+Zeppelin Nexus,AS,Marsh Tower
+Zeppelin Nexus,AS,Cazador0's Place
+Zeppelin Nexus,AS,Prison Barge
+Zeppelin Nexus,AS,Cloud Temple
+Marsh Tower,AS,Zeppelin Nexus
 Grand Central,R,Spawn Courtyard
 Grand Central,AW,Spawn Courtyard
 Grand Central,R,USS Roosevelt
 Grand Central,R,Cactusfort
 Grand Central,R,TRP Library
 Grand Central,AW,Spawn Commodities
-Cloud Temple,AS,Airship Nexus
-Prison Barge,AS,Airship Nexus
-Cazador0's Place,AS,Airship Nexus
+Cloud Temple,AS,Zeppelin Nexus
+Prison Barge,AS,Zeppelin Nexus
+Cazador0's Place,AS,Zeppelin Nexus
 Cazador0's Place,AW,Bender Statue
 West Frozen Beach,R,Hidden Valley
 West Frozen Beach,AW,Black Forest
@@ -120,11 +120,11 @@ Ankor A Zharr Airport,R,Golem Farm
 Ankor A Zharr Airport,R,Pool Housing
 Ankor A Zharr Airport,AW,AAZ Eastern Hall
 Skyrail Interchange 3,R,Skyrail Interchange 1
-Skyrail Interchange 3,R,Rippy
+Skyrail Interchange 3,R,Rippy's UFO
 Skyrail Interchange 3,R,Lava Fortress
-Rippy,R,Skyrail Interchange 3
-Rippy,AW,PigCo Building
-Rippy,AW,Creeper Statue
+Rippy's UFO,R,Skyrail Interchange 3
+Rippy's UFO,AW,PigCo Building
+Rippy's UFO,AW,Creeper Statue
 Lava Fortress Railstation,R,Skyrail Interchange 3
 Lava Fortress Railstation,AW,Saint Ghast Church
 Saint Ghast Church,AW,Lava Fortress Railstation
@@ -206,7 +206,7 @@ New Pigsgyville,AW,Creeper Statue
 Southern Pigsgyville,R,New Pigsgyville
 Test of Despair,AW,New Pigsgyville
 Test of Despair,AW,walkerm's house
-Creeper Statue,AW,Rippy
+Creeper Statue,AW,Rippy's UFO
 Creeper Statue,AW,New Pigsgyville
 Creeper Statue,AW,Mob Spawner
 Mob Spawner,AW,Creeper Statue
@@ -231,7 +231,7 @@ Plains City Central Station,R,Ankor A Zharr Airport
 Plains City Central Station,R,Mysterious Isle
 Plains City Central Station,R,The Bloop
 Plains City Central Station,R,Rifton Central
-Plains City Central Station,R,Roller Coaster
+Plains City Central Station,R,Wam's House
 Plains City Central Station,AW,Plains City Center
 Golem Farm,R,Ankor A Zharr Airport
 Golem Farm,R,Ankor A Zharr Harbour
@@ -254,16 +254,16 @@ Rifton Central,AW,Rifton Airport
 Rifton Central,R,Plains City Central Station
 Mysterious Isle,R,Plains City Central
 Mysterious Isle,RB,South Pandora XP-Farm
-Mysterious Isle,R,VULCAN Alpha
+Mysterious Isle,R,VULCAN Shaft Alpha
 South Pandora XP Farm,RB,Mysterious Isle
-South Pandora XP Farm,R,Halgdp
+South Pandora XP Farm,R,Halgdp's House
 South Pandora XP Farm,RB,Pandora UN Castle
 South Pandora XP Farm,AW,Pandora Southern Town
-Halgdp,R,South Pandora XP Farm
-Halgdp,AW,Xerillium's House
-Halgdp,R,Skyfrost Junction
-Xerillum's House,AW,Halgdp
-Skyfrost Junction,R,Halgdp
+Halgdp's House,R,South Pandora XP Farm
+Halgdp's House,AW,Xerillium's House
+Halgdp's House,R,Skyfrost Junction
+Xerillum's House,AW,Halgdp's House
+Skyfrost Junction,R,Halgdp's House
 Skyfrost Junction,R,Skyfrost
 Skyfrost Junction,R,South Skyscraper
 Skyfrost,R,Skyforst Junction
@@ -276,17 +276,19 @@ South Skyscaper,R,Skyfrost Junction
 South Skyscaper,R,Plains City Airport
 Pandora UN Castle,RB,South Pandora XP-Farm
 Pandora Southern Town,AW,South Pandora XP-Farm
-VULCAN Alpha,R,Mysterious Isle
+VULCAN Shaft Alpha,R,Mysterious Isle
 The Bloop,R,Plains City Central
-Roller Coaster,R,Plains City Central
-Roller Coaster,R,Wam's Harbour
-Roller Coaster,R,Ginormous Tower Lower Station
-Wam's Harbour,R,Roller Coaster
-Ginormous Tower Lower Station,R,Roller Coaster
-Ginormous Tower Lower Station,R,Ginormous Tower Upper Station
-Ginormous Tower Lower Station,AW,Ginormous Tower Upper Station
-Ginormous Tower Upper Station,RB,Ginormous Tower Lower Station
-Ginormous Tower Upper Station,AW,Ginormous Tower Lower Station
+Wam's House,R,Plains City Central
+Wam's House,R,Wam's Harbour
+Wam's House,R,Giant Tower Lower Station
+Wam's House,R,Rollercoaster
+Rollercoaster,R,Wam's House
+Wam's Harbour,R,Wam's House
+Giant Tower Lower Station,R,Wam's House
+Giant Tower Lower Station,R,Giant Tower Upper Station
+Giant Tower Lower Station,AW,Giant Tower Upper Station
+Giant Tower Upper Station,RB,Giant Tower Lower Station
+Giant Tower Upper Station,AW,Giant Tower Lower Station
 Plains City Center,AW,Plains City Central
 Plains City Center,R,Skyfrost
 Plains City Center,AW,Plains City Airport
@@ -306,3 +308,24 @@ Tree Express,R,Watchtower
 Tree Express,AW,Eastern Pandora
 Britannia,T,Plains City Center
 Vvardenfell,T,Plains City Center
+Black Forest,R,Carlo's Island
+Carlo's Island,R,Black Forest
+Zeppelin Nexus,AS,Bender Statue
+Zeppelin Nexus,AS,Roosevelt Airport
+Roosevelt Airport,AS,Zeppelin Nexus
+Zeppelin Nexus,AS,Pandora Southern Town
+Pandora Southern Town,AS,Zeppelin Nexus
+Zeppelin Nexus,AS,Wam's House
+Wam's House,AS,Zeppelin Nexus
+Clock Town Airport,R,Clock Town Proper
+Clock Town Proper,R,Clock Town Airport
+Clock Town Proper,AW,Underground Junction
+Underground Junction,AW,Clock Town Proper
+Clock Town Proper,R,Rocket Complex
+Rocket Complex,R,Clock Town Proper
+Underground Junction,R,Tower of Glass and Fire
+Underground Junction,RB,Clock Town Airport
+Rocket Complex,R,Tower of Glass and Fire
+Tower of Glass and Fire,R,Rocket Complex
+Clock Town Airport,R,VULCAN Shaft Alpha
+VULCAN Shaft Alpha,R,Clock Town Airport

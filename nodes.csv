@@ -17,10 +17,10 @@ Western Hub,970,59,70
 Spawn Basement,-73,65,42
 Spawn Courtyard,-48,67,55
 Spawn Airship,-83,78,88
-Clock Town,-9726,64,-8189
+Clock Town Airport,-9726,64,-8189
 Frontier Station,-722,74,232
 Plains City Airport,-16246,67,-7594
-Airship Nexus,-5149,140,-1640
+Zeppelin Nexus,-5149,140,-1640
 Marsh Tower,-14831,78,-8571
 Grand Central,-27,62,-7
 Cloud Temple,-14974,194,-6286
@@ -33,7 +33,7 @@ Rifton Airport,-15600,6,-8521
 Antarctica,-37045,67,-81
 Ankor A Zharr Airport,-16213,66,-8606
 Skyrail Interchange 3,166,122,114
-Rippy,167,64,72
+Rippy's UFO,167,64,72
 Lava Fortress Railstation,313,98,200
 Saint Ghast Church,380,84,234
 Western Coves Junction,-175,70,522
@@ -89,7 +89,7 @@ AAZ Western Hall,-16537,30,-8590
 Rifton Central,-15530,64,-8418
 Mysterious Isle,-15629,42,-7025
 South Pandora XP Farm,-16053,55,-7003
-Halgdp,-16251,68,-7169
+Halgdp's House,-16251,68,-7169
 Xerillum's House,-16147,65,-7184
 Skyfrost Junction,-16253,68,-7353
 Skyfrost,-16292,197,-7229
@@ -98,15 +98,20 @@ Skyblock Plots,-16295,201,-7166
 South Skyscaper,-16251,64,-7460
 Pandora UN Castle,-16329,57,-7377
 Pandora Southern Town,-16012,68,-6942
-VULCAN Alpha,-15358,42,-7129
+VULCAN Shaft Alpha,-15358,42,-7129
 The Bloop,-17552,43,-9270
-Roller Coaster,-15679,71,-7996
+Wam's House,?,?,?
+Rollercoaster,?,?,?
 Wam's Harbour,-15595,63,-7861
-Ginormous Tower Lower Station,-15747,5,-8047
-Ginormous Tower Upper Station,-15742,252,-8057
+Giant Tower Lower Station,-15747,5,-8047
+Giant Tower Upper Station,-15742,252,-8057
 Plains City Center,-16301,65,-7712
 Eastern Pandora,-16130,65,-7762
 Watchtower,-16047,97,-7761
 Tree Express,-16168,65,-7769
 Britannia,?,?,?
 Vvardenfell,?,?,?
+Clock Town Proper,?,?,?
+Underground Junction,?,?,?
+Rocket Complex,?,?,?
+Tower of Glass and Fire,?,?,?
