@@ -286,16 +286,18 @@ Rollercoaster,R,Wam's House
 Wam's Harbour,R,Wam's House
 Giant Tower Lower Station,R,Wam's House
 Giant Tower Lower Station,R,Giant Tower Upper Station
-Giant Tower Lower Station,AW,Giant Tower Upper Station
+Giant Tower Lower Station,RB,Giant Tower Middle Station
+Giant Tower Upper Station,R,Giant Tower Lower Station
 Giant Tower Upper Station,RB,Giant Tower Lower Station
-Giant Tower Upper Station,AW,Giant Tower Lower Station
+Giant Tower Middle Station,RB,Giant Tower Lower Station
+Giant Tower Middle Station,RB,Giant Tower Upper Station
 Plains City Center,AW,Plains City Central
 Plains City Center,R,Skyfrost
 Plains City Center,AW,Plains City Airport
 Plains City Center,AW,Eastern Pandora
 Plains City Center,R,Plains City Airport
-Plains City Center,T,USS Nimitz
-Plains City Center,T,Rifton Airport
+Plains City Airport,AP,USS Nimitz
+Plains City Airport,AP,Rifton Airport
 Plains City Center,T,Britannia
 Plains City Center,T,Vvardenfell
 Eastern Pandora,AW,Plains City Center
@@ -329,3 +331,38 @@ Rocket Complex,R,Tower of Glass and Fire
 Tower of Glass and Fire,R,Rocket Complex
 Clock Town Airport,R,VULCAN Shaft Alpha
 VULCAN Shaft Alpha,R,Clock Town Airport
+Asgerd Asketill,AW,Plains City Center
+Plains City Center,AW,Asgerd Asketill
+Asgerd Asketill,B,Fort Upsulla
+Fort Upsulla,B,Asgerd Asketill
+Fort Upsulla,B,Whittington Harbour
+Whittington Harbour,B,Fort Upsulla
+Whittington Harbour,R,Submarine Harbour
+Submarine Harbour,R,Whittington Harbour
+Submarine Harbour,R,Undergarden
+Undergarden,R,Submarine Harbour
+Undergarden,R,Fort Frostmoth
+Undergarden,R,Undergarden North
+Undergarden,RB,Barracks
+Barracks,RB,Undergarden
+Fort Frostmoth,R,Undergarden
+Fort Frostmoth,R,Tree Farm
+Tree Farm,R,Fort Frostmoth
+Tree Farm,R,Community Mine
+Community Mine,R,Tree Farm
+Community Mine,R,Whittington Central
+Community Mine,R,Arcology Tower
+Arcology Tower,R,End Portal
+Arcology Tower,R,Community Mine
+End Portal,Arcology Tower
+Undergarden North,R,Undergarden
+Undergarden North,R,Strip Mine
+Strip Mine,R,Undergarden North
+Strip Mine,R,Whittington Central
+Airport,R,Hot Springs
+Hot Springs,R,Airport
+Hot Springs,R,Whittington Central
+Whittington Central,R,Hot Springs
+Whittington Central,R,Strip Mine
+Whittington Central,R,Whittington Harbour
+Whittington Central,R,Community Mine
